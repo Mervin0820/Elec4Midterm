@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 # Add src/ to path
-sys.path.append(str(Path(_file_).resolve().parents[1] / "src"))
+sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
 
 from nostalgic import load_images, apply_nostalgic_effect, save_image
 
