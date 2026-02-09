@@ -5,7 +5,7 @@ import pytest
 import sys
 from pathlib import Path
 
-sys.path.append(str(Path(_file_).resolve().parents[1] / "src"))
+sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
 
 from slow_shutter import load_images, apply_slow_shutter, save_image
 
