@@ -48,7 +48,7 @@ def test_nostalgic_effect_basic(images):
 def test_nostalgic_effect_parameters(images):
     for _, img in images:
         warm = apply_nostalgic_effect(img, warmth=1.3)
-        cool = apply_nostalgic_effect(img, warmth=0.😎)
+        cool = apply_nostalgic_effect(img, warmth=0.1)
         grain = apply_nostalgic_effect(img, grain_strength=12)
         blur = apply_nostalgic_effect(img, blur_ksize=9)
 
