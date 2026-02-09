@@ -7,7 +7,7 @@ from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
 
-from cartoonify import load_images, cartoonify, save_image
+from cartoon import load_images, cartoonify, save_image
 
 INPUT_DIR = "input"
 OUTPUT_DIR = "output"
