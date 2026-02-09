@@ -5,7 +5,6 @@ import pytest
 import sys
 from pathlib import Path
 
-# Add src/ to path
 sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
 
 from nostalgic import load_images, apply_nostalgic_effect, save_image
