@@ -4,7 +4,7 @@ import pytest
 import sys
 from pathlib import Path
 
-sys.path.append(str(Path(_file_).resolve().parents[1] / "src"))
+sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
 
 from candid_or_posed import (
     load_images,
