@@ -3,6 +3,8 @@ name: Python OpenCV CI
 on:
   push:
     branches: ["main"]
+    paths-ignore:
+      - 'output/**'
   pull_request:
     branches: ["main"]
 
