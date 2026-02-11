@@ -100,7 +100,7 @@ python src/cartoon.py
 
 ##  Installation and Usage (Contributors)
 
-### 🛠 Development Setup
+###  Development Setup
 
 1. Fork the repository  
 2. Clone your fork: <br/>
