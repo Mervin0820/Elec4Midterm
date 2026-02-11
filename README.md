@@ -1,5 +1,4 @@
 # Elective 4 Midterm 
-## A Python-based Image Enhancement and Transformation Toolkit with CI Integration
 
 --
 
