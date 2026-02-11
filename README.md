@@ -88,3 +88,70 @@ git clone https://github.com/your-username/Elec4Midterm.git <br/>
 cd Elec4Midterm <br/>
 pip install -r requirements.txt <br/>
 
+###  Usage
+
+1. Place image inside `input/` folder  
+2. Run desired processing script: <br/>
+python src/cartoon.py
+
+3. Processed image will appear in `output/`
+
+---
+
+##  Installation and Usage (Contributors)
+
+### 🛠 Development Setup
+
+1. Fork the repository  
+2. Clone your fork: <br/>
+git clone https://github.com/your-username/Elec4Midterm.git <br/>
+cd Elec4Midterm
+3. Create virtual environment: <br/>
+python -m venv venv <br/>
+source venv/bin/activate <br/>
+Windows: <br/>
+venv\Scripts\activate
+4. Install dependencies: <br/>
+pip install -r requirements.txt
+
+---
+
+###  Running Tests <br/>
+pytest
+
+##  Code Quality & Structure
+
+The project follows:
+
+* Modular script design  
+* Clear folder organization  
+* Unit testing for validation  
+* Version control best practices  
+* Continuous integration automation  
+
+##  Collaboration & Git Usage
+
+This project uses structured Git workflows including:
+
+* Feature branching  
+* Pull request reviews  
+* Clear commit messages  
+* CI validation before merging  
+
+##  Contributor Expectations
+
+Contributors should:
+
+* Create issues before starting major features  
+* Use feature branches  
+* Write unit tests for new functionality  
+* Ensure CI tests pass before pull requests  
+* Follow clean commit message standards
+
+
+##  Collaborators
+
+* Member 1 – Roshan Alfonso Garcia
+* Member 2 – Mervin Valerio
+* Member 3 – Maquee Visitacion
+* Member 4 – Xavier Hans Visda
