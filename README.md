@@ -84,5 +84,7 @@ pytest
 
 ###  Installation
 
-
+git clone https://github.com/your-username/Elec4Midterm.git <br/>
+cd Elec4Midterm <br/>
+pip install -r requirements.txt <br/>
 
