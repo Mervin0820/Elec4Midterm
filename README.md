@@ -36,9 +36,7 @@ The project follows a modular DevOps-oriented structure:
 
 ###  Pipeline Flow
 
-User → Input Folder → Processing Scripts → Output Folder<br/>
-↓<br/>
-Unit Testing<br/>
+User → Input Folder → Processing Scripts → Unit Testing → Output Folder<br/>
 ↓<br/>
 GitHub Actions CI<br/>
 
