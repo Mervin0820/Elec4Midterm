@@ -1,6 +1,5 @@
 # Elective 4 Midterm 
 
---
 
 ##  Introduction
 
@@ -8,7 +7,7 @@ Elec4Midterm is a Python-based image processing project that applies multiple vi
 
 This project is designed for academic and practical DevOps learning by combining image processing with automation, testing, and collaborative development workflows.
 
---
+
 
 ##  Project Functionality
 
@@ -23,7 +22,7 @@ The system processes digital images using multiple automated techniques:
 
 All processes are automated and produce output images after execution.
 
---
+
 
 ##  Architecture Overview
 
@@ -43,7 +42,7 @@ Unit Testing<br/>
 ↓<br/>
 GitHub Actions CI<br/>
 
----
+
 
 ##  DevOps Pipeline (GitHub Actions)
 
@@ -63,7 +62,7 @@ The pipeline automatically runs whenever code is pushed or a pull request is cre
 pytest
 5. Pipeline reports PASS or FAIL status  
 
---
+
 
 ###  CI Benefits
 
@@ -72,7 +71,7 @@ pytest
 * Improved collaboration  
 * Reliable build environment  
 
----
+
 
 ##  Installation and Usage (End Users)
 
@@ -81,7 +80,7 @@ pytest
 * Python 3.8 or higher  
 * pip package manager  
 
----
+
 
 ###  Installation
 
