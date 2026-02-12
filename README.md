@@ -3,7 +3,7 @@
 
 ##  Introduction
 
-Elec4Midterm is a Python-based image processing project that applies multiple visual enhancement and transformation techniques to digital images. The project demonstrates modular image processing, automated testing, and continuous integration (CI) using GitHub Actions. Users can apply effects such as beautification, cartoonization, nostalgic filters, brightness enhancement, slow-shutter effects, and image classification in a reproducible and automated way.
+Our Midterm is a Python-based image processing project that applies multiple visual enhancement and transformation techniques to digital images. The project demonstrates modular image processing, automated testing, and continuous integration (CI) using GitHub Actions. Users can apply effects such as beautification, cartoonization, nostalgic filters, brightness enhancement, slow-shutter effects, and image classification in a reproducible and automated way.
 
 This project is designed for academic and practical DevOps learning by combining image processing with automation, testing, and collaborative development workflows.
 
