@@ -88,7 +88,7 @@ pip install -r requirements.txt <br/>
 
 ###  Usage
 
-1. Place image inside `input/` folder  
+1. Place image inside `input/` folder (The system is most compatible with .jpeg file format)
 2. Run desired processing script: <br/>
 python src/cartoon.py
 
